@@ -7,7 +7,7 @@
 
 It helps transform raw gene/proteomics data into **insightful visualizations and tables** without coding.
 
-**Created by Shahryar Amjad for a client.**
+**Created by Shahryar Amjad (ME) for a client.**
 
 ---
 

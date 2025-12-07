@@ -1,9 +1,4 @@
 # ProteoAging-Oocytes 🧬
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/itshahryar/ProteoAging-Oocytes?style=social)](https://github.com/itshahryar/ProteoAging-Oocytes)
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-green)](https://reactjs.org/)
-
 ---
 
 ## Overview
@@ -12,15 +7,17 @@
 
 It helps transform raw gene/proteomics data into **insightful visualizations and tables** without coding.
 
+**Created by Shahryar Amjad for a client.**
+
 ---
 
 ## Features ✨
 
-- **Gene Search** 🔍 – Quickly find any gene and retrieve relevant information.
-- **Analysis Visuals** 📊 – Interactive visualizations for DEGs and gene expression data.
-- **Data Tables** 📋 – View, filter, and analyze structured biological datasets.
-- **Responsive UI** 💻 – Works seamlessly on desktop and mobile devices.
-- **Dark Mode Support** 🌙 – Comfortable for long research sessions.
+- **Gene Search** 🔍 – Quickly find any gene and retrieve relevant information.  
+- **Analysis Visuals** 📊 – Interactive visualizations for DEGs and gene expression data.  
+- **Data Tables** 📋 – View, filter, and analyze structured biological datasets.  
+- **Responsive UI** 💻 – Works seamlessly on desktop and mobile devices.  
+- **Dark Mode Support** 🌙 – Comfortable for long research sessions.  
 
 ---
 

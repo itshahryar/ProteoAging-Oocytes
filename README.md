@@ -32,6 +32,7 @@ npm install
 npm run dev
 
 ---
+
 ## Screenshots 🖼️
 
 <img width="1332" height="636" alt="1" src="https://github.com/user-attachments/assets/b1b744b3-fab3-455b-8515-a7b46341249e" />

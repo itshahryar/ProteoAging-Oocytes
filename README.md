@@ -31,10 +31,6 @@ cd ProteoAging-Oocytes
 npm install
 npm run dev
 
----
-
-## Screenshots 🖼️
-
 <img width="1332" height="636" alt="1" src="https://github.com/user-attachments/assets/b1b744b3-fab3-455b-8515-a7b46341249e" />
 <img width="1335" height="637" alt="features" src="https://github.com/user-attachments/assets/7a241d1f-b6d9-44b8-b46e-868d0bd4ffee" />
 <img width="1339" height="642" alt="heatmao" src="https://github.com/user-attachments/assets/73f1aa37-5b91-4c0a-b465-dde422241993" />
